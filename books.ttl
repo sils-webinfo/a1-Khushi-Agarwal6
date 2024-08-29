@@ -23,7 +23,7 @@ PREFIX : <http://example.org/>
   :pages 193 ;
   :about :w-g-sebald .
 
-#write a turtle statements describing the book dark secrets of manning hall by nathaniel hornblower published by random house in 1985
+#write a turtle statements describing the book dark secrets of manning hall by Nathaniel Hornblower published, by random house in 1985
 :dark-secrets-of-manning-hall a:Book;
   :title "Dark Secrets of Manning Hall";
   :author :nathaniel-hornblower;
